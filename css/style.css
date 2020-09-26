@@ -1,0 +1,13 @@
+.quantityProduct{
+    width: 63%;
+    background-color: initial;
+    color: #dad55e;
+}
+.sizeProduct{
+    background-color: initial;
+    color: #dad55e;
+}
+.dropdown-menu{
+    max-height: 200px;
+    overflow: scroll;
+}
